@@ -1,1 +1,1 @@
-# Dzie-dobry
+# live_voice_translator
